@@ -1,8 +1,8 @@
 # Personal Projects
-Collection of Personal Data Science Projects
+## Collection of Personal Data Science Projects
 
 
-Machine Learning  
+### Machine Learning  
 1. Titanic
     - Utilizes machine learning models to predict survivors based on passenger information (kaggle competition)
         - Logistic Regression
@@ -18,7 +18,7 @@ Machine Learning
         - k-means clustering
         - Foursquare API
 
-Data Processing & Cleansing  
+### Data Processing & Cleansing  
 1. Housing Prices During Recession
     - Extracts and processes various data sources to analyze housing prices during the Recession
         - BeautifulSoup (web scraping)
@@ -26,7 +26,7 @@ Data Processing & Cleansing
     - Extracts and processes various data sources to analyze Energy Supply of countries in relation to GDP 
     as well as number of scientific journal contributions
 
-APIs  
+### APIs  
 1. Restaurant Recommender
     - Provides a list of nearby restaurants, sorted by rating and number of ratings
       - Zomato API
@@ -37,7 +37,7 @@ APIs
         - TasteDive API
         - OMDB API
 
-Miscellaneous  
+### Miscellaneous  
 1. Word Clouds
     - Creates Word Clouds out of NYC job posting details over custom masks
 
