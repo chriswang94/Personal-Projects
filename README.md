@@ -27,12 +27,12 @@
     as well as number of scientific journal contributions
 
 ### APIs  
-1. Restaurant Recommender
+1. Restaurant API
     - Provides a list of nearby restaurants, sorted by rating and number of ratings
       - Zomato API
       - Yelp API
       - EatStreet API
-2. Movie Recommender
+2. Movie API
     - Provides a list of recommended movies, sorted by Rotten Tomatoes ratings
         - TasteDive API
         - OMDB API
