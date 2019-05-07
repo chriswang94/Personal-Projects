@@ -2,8 +2,10 @@
 ## Collection of Personal Data Science Projects
 
 
-### Machine Learning  
-1. **Titanic**
+### Machine Learning 
+1. **Instacart** _In progress..._
+    - Utilizes machine learning models to predict which products will be in a user's next order (kaggle competition)
+2. **Titanic**
     - Utilizes machine learning models to predict survivors based on passenger information (kaggle competition)
         - Logistic Regression
         - k-Nearest Neighbors
@@ -13,7 +15,7 @@
         - Random Forest
         - Perceptron
         - Gradient Boosting Classifier
-2. **Toronto Neighborhood Analysis**
+3. **Toronto Neighborhood Analysis**
     - Clusters Toronto neighborhoods according to nearby venues for analysis and business insights
         - k-means Clustering
         - Foursquare API
