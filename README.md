@@ -22,7 +22,7 @@
 1. **Movies**
     - Extracts and processes various data sources to analyze relationships between movie metrics and forecast revenue
         - Random Forest
-    - Outputs to Tableau for data visualization and analysis: **Movies - Data Visualization.twbx**  
+    - Outputs to Tableau for data visualization and analysis: **Movies - Visualization.twbx**  
     - Implements the following programs:  
         1. OMDB Requests with Caching  
             * Implements a basic caching system to build a movie database over multiple runs (OMDB API) 
