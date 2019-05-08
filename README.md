@@ -39,7 +39,7 @@
 
 ### APIs  
 1. **Restaurant API**
-    - Provides a list of nearby restaurants, sorted by rating and number of ratings
+    - Provides a list of nearby restaurants, sorted by rating and number of ratings, and maps them
       - Zomato API
       - Yelp API
       - EatStreet API
