@@ -4,7 +4,7 @@
 
 ### Machine Learning 
 1. **Instacart** _In progress..._
-    - Utilizes machine learning models to predict which products will be in a user's next order (kaggle competition)
+    - Utilizes machine learning models to recommend products based on user's prior orders
 2. **Titanic**
     - Utilizes machine learning models to predict survivors based on passenger information (kaggle competition)
         - Logistic Regression
